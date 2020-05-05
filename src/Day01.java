@@ -10,7 +10,7 @@ public class Day01
 	public static void main(String[] args) throws IOException
 	{
 		// Read in the input, split it into the separate instructions.
-		BufferedReader reader = new BufferedReader(new FileReader(new File("/Users/vamshiramineni/Documents/workspace/Advent/src/practice/advent1.txt")));
+		BufferedReader reader = new BufferedReader(new FileReader(new File("/Users/vamshiramineni/Documents/workspace/Advent/src/practice/day01.txt")));
 		String[] instructions = reader.readLine().split(", ");
 		reader.close();
 		

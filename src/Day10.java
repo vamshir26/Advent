@@ -72,7 +72,7 @@ public class Day10 {
     }
 
     public static void main(String[] args) {
-        List<String[]> input = getFileLinesSplit("/Users/vamshiramineni/Documents/workspace/Advent/src/practice/day10.txt", " ");
+        List<String[]> input = getFileLinesSplit("/Users/vamshiramineni/Documents/workspace/Advent2016/src/day10.txt", " ");
 
         Map<Integer, Bot> botMap = new HashMap<>();
 

@@ -21,7 +21,7 @@ public class Day04 {
 
     public static void main(String[] args) {
 
-        List<String[]> input = getFileLinesSplit("/Users/vamshiramineni/Documents/workspace/Advent/src/practice/day04.txt", "-");
+        List<String[]> input = getFileLinesSplit("/Users/vamshiramineni/Documents/workspace/Advent2016/src/day04.txt", "-");
         List<String[]> part2 = new ArrayList<>();
         int sum = 0;
 
